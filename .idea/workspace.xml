@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a95cc408-8eab-421b-9b5a-a7dc3c150d00" name="Changes" comment="feat: init TicketCounter">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Counter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sync/ticket/CustomerRunable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sync/ticket/CustomerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sync/ticket/TicketCounter.java" afterDir="false" />
-    </list>
+    <list default="true" id="a95cc408-8eab-421b-9b5a-a7dc3c150d00" name="Changes" comment="feat: init TicketCounter" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +36,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/admin/IdeaProjects/Counter/src/sync/ticket",
+    "last_opened_file_path": "C:/Leo Nguyen/3. Document/DU6-2024/OOP-Java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,8 +57,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715611620884</updated>
-      <workItem from="1715611621912" duration="411000" />
+      <workItem from="1715611621912" duration="628000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: init TicketCounter">
+      <option name="closed" value="true" />
+      <created>1715612071034</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715612071034</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
